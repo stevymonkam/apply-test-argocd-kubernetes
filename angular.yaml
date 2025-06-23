@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: angular-app-container
-        image: stevymonkam/contratti-image:tagname:1.0
+        image: stevymonkam/kuberneteimgfront:1.0
         ports:
         - containerPort: 80
